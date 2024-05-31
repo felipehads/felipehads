@@ -17,7 +17,7 @@
 <hr>
 
 
-- 🔭 Atualmente estou trabalhando como Estagiário no TCE-MA, utilizando Vue, Spring Boot e PostgreSQL
+- 🔭 Atualmente estou trabalhando como Desenvolver Júnior na PDCase Informática, utilizando Vue, Spring Boot, PostgreSQL e Docker
 - 🌱 Atualmente estou aprendendo Código Limpo, Padrões de Projeto e SOLID
 - 👯 Estou procurando colaborar em projetos e sistemas que envolvam novos desafios
 - 💬 Pergunte-me sobre Java, Spring Boot e Javascript
